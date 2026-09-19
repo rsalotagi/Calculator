@@ -796,4 +796,3 @@ st.caption(
     "Liquidation price is an estimate and should not be "
     "treated as Delta Exchange's exact liquidation price."
 )
-```
